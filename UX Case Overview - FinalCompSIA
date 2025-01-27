@@ -1,0 +1,28 @@
+UX Case - FinalCompSIA
+This is an overview of the case, all detailed information is included in the file UX Case - FinalCompSIA.zip
+The full program is also available in the file FinalCompSIA_GHVersion.zip
+
+Project Context:
+This project was my internal assessment (IA) for the IB HL Computer Science course, where I was expected to develop, program, and document my process in building this application. The idea stemmed from a conversation with my friend in IB HL Chemistry, who expressed their challenges in completing their own IA, involving them creating and testing a chemical experiment from start to finish. The process connected both students and teachers, which is why my app is designed to help both types of users successfully navigate the IA process.
+
+Role/Responsibilities:
+1. Spoke and documented client conversations to develop a comprehensive success criteria that met the end users' requirements
+2. Designed/developed flowcharts & user navigation for the entire app
+3. Began program design/development with several changes to structure, and regular commits to show proof of app development/re-design
+4. Created a video demonstration, highlighting the key features of the application to the end users while evaluating the success criteria originally made
+5. Analyzing the app's strengths/shortcomings, with a focus on areas for improvement/re-design (from both a coding/design perspective)
+
+Core Problem:
+This app was built to streamline the IA Chemistry process for students and teachers. In the IA Chemistry process, students are asked to develop a research question pertaining to a specific experiment in which they outline their equipment, hypothesis, and overall procedure. Instructors must approve this work, before any lab work is completed, however, the process becomes complicated when multiple students are using similar materials, lab times are limited, and access to student work becomes difficult for teachers. This program is a portal that connects this information for both students and teachers, allowing students to enter their experiment information, while teachers have real-time access to their work, making the approvable and completion process less taxing for both users.
+
+Research Methods:
+1. Communication with my client - gave in-depth experience on the experiment process
+2. Checking IB resources (IA examples, IA criteria) - https://www.clastify.com/ia/chemistry, chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://masseychem.weebly.com/uploads/1/2/8/0/12806117/ib_scoring.pdf
+
+Final Design Solution:
+This Java app has dual-user entry, allowing for both student and teacher access. The student's portal allows users to enter their personal information and IA information while teachers can use the student info provided to track their work and ensure deadlines are met. The app is made to be simplistic in overall design, as the users may not be as technically advanced. (Full program is available in FinalCompSIA_GHVersion.zip)
+
+Reflection:
+This app not only improved my programming skills, with emphasis on using more complex structures, and developing strong organizational programming, but it allowed me to experience the creative side of building a program. This project forced me to consider the needs of an end-user and reflect on whether those needs were met, and if improvements would need to be made in the future to improve the program's usability.
+
+Full reflections/overviews/designs available at UX Case - FinalCompSIA.zip & full coded program available at FinalCompSIA_GHVersion.zip
